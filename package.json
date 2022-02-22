@@ -1,7 +1,8 @@
 {
+  "name": "@p3rv3z/ezytor-test",
   "npmClient": "yarn",
   "private": true,
-  "author": "Prev Wong <prevwong@gmail.com>",
+  "author": "Test",
   "scripts": {
     "dev": "./scripts/dev.sh",
     "dev:site": "lerna run start --scope site",
@@ -79,7 +80,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prevwong/craft.js.git"
+    "url": "git+https://github.com/p3rv3z/craft.js.git"
   },
   "jest": {
     "setupFilesAfterEnv": [

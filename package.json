@@ -1,5 +1,5 @@
 {
-  "name": "@p3rv3z/ezytor-test",
+  "name": "@ezytest",
   "npmClient": "yarn",
   "author": "Test",
   "scripts": {
